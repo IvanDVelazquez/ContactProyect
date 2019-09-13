@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="28"
+    build-mode="FULL"
+    density="hdpi"
+    format="10"
+    plugin-version="3.4.2"
+    timestamp="1568077601129"
+    token="-6247349962899677341"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Ivan\AndroidStudioProjects\SolsticeProgrammingChallenge\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+
+</instant-run>

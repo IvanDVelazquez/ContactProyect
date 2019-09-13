@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solstice Programming Challenge</string>
+    <string name="contacts">Contacts</string>
+    <string name="favouritestar">favouriteStar</string>
+    <string name="favouriteContacts">FAVOURITE CONTACTS</string>
+    <string name="otherContacts">OTHER CONTACTS</string>
+    <string name="phone">PHONE: </string>
+    <string name="adress">ADRESS: </string>
+    <string name="birthdate">BIRTHDATE: </string>
+    <string name="email">EMAIL: </string>
+    <string name="home">Home</string>
+    <string name="mobile">Mobile</string>
+    <string name="work">Work</string>
+    <string name="empty"> </string>
+
+</resources>
